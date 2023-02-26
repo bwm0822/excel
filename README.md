@@ -7,4 +7,5 @@
 4. 按下 計算 按鈕，即可算出武器四次攻擊的傷害
 
 
+
 ![image](https://github.com/bwm0822/knighthood/blob/main/2023-02-26.png)
