@@ -1,7 +1,7 @@
 # knighthood
 
 狂暴騎士的Excel試算表，可以計算武器搭配各護符的傷害，並支援多國語言 :  
-This Excel of knighthood can calculate the damage of the weapon and supports multiple languages :
+This knighthood's Excel can calculate the damage of the weapon and supports multiple languages :
 
 1. 開啟 knighthood.xlsm    
    Open knighthood.xlsm
@@ -21,7 +21,7 @@ This Excel of knighthood can calculate the damage of the weapon and supports mul
 5. Excel會自動算出武器四次攻擊的傷害    
    Excel will calculate the damage of the weapon's four attacks automatically
 
-![image](https://github.com/bwm0822/knighthood/blob/main/Fig_1.png)
+![image](https://github.com/bwm0822/knighthood/blob/main/Fig_1.png)  
 ![image](https://github.com/bwm0822/knighthood/blob/main/Fig_2.png)
 
 新增多國語言 :
