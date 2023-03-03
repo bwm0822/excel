@@ -32,5 +32,5 @@ This Excel of knighthood can calculate the damage of the weapon and supports mul
 2. 在圖示2 填入你的語言
    Fill in your language in mark 2
 
-![image](https://github.com/bwm0822/knighthood/blob/main/Fig_3.png)
+![image](https://github.com/bwm0822/knighthood/blob/main/Fig_3.jpg)
 
