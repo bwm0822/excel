@@ -1,6 +1,6 @@
 # knighthood
 
-狂暴騎士的Excel試算表，可以計算武器搭配各護符的傷害，並支援多國語言 :
+狂暴騎士的Excel試算表，可以計算武器搭配各護符的傷害，並支援多國語言 :  
 This Excel of knighthood can calculate the damage of the weapon and supports multiple languages :
 
 1. 開啟 knighthood.xlsm    
