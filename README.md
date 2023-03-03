@@ -1,4 +1,5 @@
 # knighthood
+版本 : V.2023.03.03 (Version : V.2023.03.03)
 
 狂暴騎士的Excel試算表，可以計算武器搭配各護符的傷害，並支援多國語言 :  
 This knighthood's Excel can calculate the damage of the weapon and supports multiple languages :
