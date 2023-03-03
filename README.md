@@ -25,7 +25,8 @@ This knighthood's Excel can calculate the damage of the weapon and supports mult
 ![image](https://github.com/bwm0822/knighthood/blob/main/Fig_1.png)  
 ![image](https://github.com/bwm0822/knighthood/blob/main/Fig_2.png)
 
-新增多國語言 :
+新增語言 :  
+Add New Language :
 
 1. 選擇 Language 工作表，如圖示1    
    Select the Language worksheet, as mark 1
