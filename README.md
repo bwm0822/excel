@@ -21,8 +21,8 @@ This Excel of knighthood can calculate the damage of the weapon and supports mul
 5. Excel會自動算出武器四次攻擊的傷害
    Excel will calculate the damage of the weapon's four attacks automatically
 
-
-![image](https://github.com/bwm0822/knighthood/blob/main/2023-02-26.png)
+![image](https://github.com/bwm0822/knighthood/blob/main/Fig_1.png)
+![image](https://github.com/bwm0822/knighthood/blob/main/Fig_2.png)
 
 新增多國語言 :
 
@@ -31,4 +31,6 @@ This Excel of knighthood can calculate the damage of the weapon and supports mul
    
 2. 在圖示2 填入你的語言
    Fill in your language in mark 2
+
+![image](https://github.com/bwm0822/knighthood/blob/main/Fig_3.png)
 
